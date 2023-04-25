@@ -1,3 +1,4 @@
 Intro 
 - Bekerja dengan GitHub
-- Branch
+- Github : Branch
+- GitHub : Fork
